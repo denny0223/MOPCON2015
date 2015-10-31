@@ -257,6 +257,10 @@ An HTTP+SPDY client for Android and Java applications
 
 --
 
+# Q & A
+
+--
+
 <h1 style="font-size: 72px">
   Thanks for listening!
 </h1>
