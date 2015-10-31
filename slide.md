@@ -245,6 +245,11 @@ An HTTP+SPDY client for Android and Java applications
 
 --
 
+# [Git](http://denny.one/SITCON-Workshop-2015-Apr-git/)
+## [Git-it](https://github.com/jlord/git-it/blob/master/README-zhtw.md)
+
+--
+
 # License
 
 --
